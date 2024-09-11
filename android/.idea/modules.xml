@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1692226636/android.better_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1692226636/android.better_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/29166182/android.device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/29166182/android.device_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/420452211/android.flutter_hls_parser.iml" filepath="$PROJECT_DIR$/.idea/modules/420452211/android.flutter_hls_parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1120841920/android.image_gallery_saver.iml" filepath="$PROJECT_DIR$/.idea/modules/1120841920/android.image_gallery_saver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1612802148/android.image_pickers.iml" filepath="$PROJECT_DIR$/.idea/modules/1612802148/android.image_pickers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-91131750/android.install_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-91131750/android.install_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1628853398/android.jpush_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1628853398/android.jpush_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1651265419/android.package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1651265419/android.package_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2055886642/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/2055886642/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-468856762/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-468856762/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1384802555/android.share_extend.iml" filepath="$PROJECT_DIR$/.idea/modules/-1384802555/android.share_extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1074408969/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-1074408969/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1294529456/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1294529456/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/899105427/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/899105427/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1378083640/android.wakelock.iml" filepath="$PROJECT_DIR$/.idea/modules/1378083640/android.wakelock.iml" />
+    </modules>
+  </component>
+</project>

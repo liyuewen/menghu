@@ -1,0 +1,143 @@
+name: peach
+description: 插画交流平台
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.1.6+116
+
+environment:
+  sdk: ">=2.9.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.1
+
+  # 欢迎页面
+  intro_views_flutter: ^2.8.2
+
+  # 屏幕适配包
+  flutter_screenutil: ^5.0.0-nullsafety.2
+
+  # 轮播图
+  flutter_swiper : ^1.1.6
+
+  # 网络请求库
+  dio: ^3.0.10
+
+  # json序列化库
+  json_annotation: ^3.0.0
+
+  # 加载进度条2
+  flutter_spinkit: ^4.1.2
+
+  # 下拉刷新，上拉加载插件
+  flutter_easyrefresh: ^2.2.1
+
+  # toast提示
+  toast: ^0.1.5
+
+  # 路由管理
+  flutter_modular: ^2.0.1
+
+  # 图片显示预览
+  photo_view: ^0.10.3
+
+  # 缓存网络图片
+  cached_network_image: ^2.5.0
+
+  # SQLite 数据库
+  sqflite: ^1.3.2+1
+
+  # 获取本地路径，给 sqflite 使用
+  path_provider: ^1.6.11
+
+  # 权限请求
+  permission_handler: ^5.0.1+1
+
+  # 保存图片到相册
+  image_gallery_saver: ^1.6.7
+
+  # 本地数据存储
+  shared_preferences: ^0.5.12+4
+
+  # 分享
+  share_extend: ^1.1.9
+
+  # 功能强大的图片视频预览下载裁剪插件
+  image_pickers: ^1.0.8+7
+
+  # 打开外链
+  url_launcher: ^5.7.10
+
+  # 获取设备信息
+  device_info: ^1.0.0
+
+  # 获取app包的信息
+  package_info: ^0.4.3+2
+
+  # 极光推送
+  jpush_flutter: 0.6.1
+
+  # app 升级弹窗
+  flutter_update_dialog: ^1.0.0
+
+  # 安装app
+  install_plugin: ^2.0.1
+
+  # 侧滑菜单
+  flutter_slidable: ^0.5.7
+
+  # 事件广播和事件监听插件
+  event_bus: ^1.1.1
+
+  # 视频播放插件
+  better_player: ^0.0.46
+
+  # 瀑布流插件
+  flutter_staggered_grid_view: ^0.4.0-nullsafety.3
+
+  # 单选按钮和CheckBox按钮模型
+  group_button: ^1.3.0
+
+  # 时间选择器
+  flutter_datetime_picker: ^1.5.0
+
+  # emoji表情
+  emojis: ^0.9.3
+  fluttertoast: ^7.1.8
+
+  # 不需要要上下文的吐司
+  bot_toast: ^4.0.1
+
+  # 选择图片
+  image_picker: ^0.6.7+22
+
+  # 分享
+  share: ^0.6.1+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.0.0
+  json_serializable: ^3.2.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  # assets begin
+   - lib/static/img/
+    # - lib/static/img/update_ic_close.png
+    # - lib/static/img/taxi.png
+    # - lib/static/img/welcome3.png
+    # - lib/static/img/welcome2.png
+    # - lib/static/img/update_bg_app_top.png
+    # - lib/static/img/logo.png
+    # - lib/static/img/vipLogo.png
+    # - lib/static/img/back.png
+    # - lib/static/img/SignupBackground.png
+  # assets end
+
+  fonts:
+   - family: iconfont
+     fonts:
+       - asset: lib/static/fonts/iconfont.ttf

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a303d767-3044-4d03-998e-fa05d62648f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/问题.txt" beforeDir="false" afterPath="$PROJECT_DIR$/问题.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="207" />
+    <option name="y" value="94" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1u52rFWkjShKW9GfxX9BwaNlanl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="asset_generator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/asset_generator.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a303d767-3044-4d03-998e-fa05d62648f3" name="Default Changelist" comment="" />
+      <created>1623941325398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623941325398</updated>
+    </task>
+    <task id="LOCAL-00001" summary="升级功能完成--刘兵">
+      <created>1623950288862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623950288862</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加欢迎页面，第一次打开显示欢迎页面，第二次登登录页面，登录后下次打开直接进主页 --刘兵">
+      <created>1623954065281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623954065281</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1153" y="215" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Project" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="升级功能完成--刘兵" />
+    <MESSAGE value="增加欢迎页面，第一次打开显示欢迎页面，第二次登登录页面，登录后下次打开直接进主页 --刘兵" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加欢迎页面，第一次打开显示欢迎页面，第二次登登录页面，登录后下次打开直接进主页 --刘兵" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-157" y="-1895" key="CommitChangelistDialog2" timestamp="1623954065140">
+      <screen x="-252" y="-1895" width="1080" height="1895" />
+    </state>
+    <state x="467" y="25" key="CommitChangelistDialog2/1920.-108.2560.1415/0.25.1920.1120@0.25.1920.1120" timestamp="1623948303670" />
+    <state x="-157" y="-1895" key="CommitChangelistDialog2/828.-1415.2560.1360/-252.-1895.1080.1895/0.25.1920.1175@-252.-1895.1080.1895" timestamp="1623954065140" />
+    <state width="1868" height="297" key="GridCell.Tab.0.bottom" timestamp="1624221702995">
+      <screen x="0" y="25" width="1920" height="1120" />
+    </state>
+    <state width="1868" height="496" key="GridCell.Tab.0.bottom/0.25.1920.1120@0.25.1920.1120" timestamp="1623978042554" />
+    <state width="1868" height="297" key="GridCell.Tab.0.bottom/1920.-108.2560.1415/0.25.1920.1120@0.25.1920.1120" timestamp="1624221702995" />
+    <state width="1028" height="738" key="GridCell.Tab.0.bottom/828.-1415.2560.1360/-252.-1895.1080.1895/0.25.1920.1175@-252.-1895.1080.1895" timestamp="1623952459743" />
+    <state width="1028" height="665" key="GridCell.Tab.0.bottom/828.-1415.2560.1415/-252.-1895.1080.1895/0.25.1920.1120@-252.-1895.1080.1895" timestamp="1623949561197" />
+    <state width="1868" height="297" key="GridCell.Tab.0.center" timestamp="1624221702994">
+      <screen x="0" y="25" width="1920" height="1120" />
+    </state>
+    <state width="1868" height="496" key="GridCell.Tab.0.center/0.25.1920.1120@0.25.1920.1120" timestamp="1623978042553" />
+    <state width="1868" height="297" key="GridCell.Tab.0.center/1920.-108.2560.1415/0.25.1920.1120@0.25.1920.1120" timestamp="1624221702994" />
+    <state width="1028" height="738" key="GridCell.Tab.0.center/828.-1415.2560.1360/-252.-1895.1080.1895/0.25.1920.1175@-252.-1895.1080.1895" timestamp="1623952459742" />
+    <state width="1028" height="665" key="GridCell.Tab.0.center/828.-1415.2560.1415/-252.-1895.1080.1895/0.25.1920.1120@-252.-1895.1080.1895" timestamp="1623949561196" />
+    <state width="1868" height="297" key="GridCell.Tab.0.left" timestamp="1624221702993">
+      <screen x="0" y="25" width="1920" height="1120" />
+    </state>
+    <state width="1868" height="496" key="GridCell.Tab.0.left/0.25.1920.1120@0.25.1920.1120" timestamp="1623978042553" />
+    <state width="1868" height="297" key="GridCell.Tab.0.left/1920.-108.2560.1415/0.25.1920.1120@0.25.1920.1120" timestamp="1624221702993" />
+    <state width="1028" height="738" key="GridCell.Tab.0.left/828.-1415.2560.1360/-252.-1895.1080.1895/0.25.1920.1175@-252.-1895.1080.1895" timestamp="1623952459741" />
+    <state width="1028" height="665" key="GridCell.Tab.0.left/828.-1415.2560.1415/-252.-1895.1080.1895/0.25.1920.1120@-252.-1895.1080.1895" timestamp="1623949561195" />
+    <state width="1868" height="297" key="GridCell.Tab.0.right" timestamp="1624221702995">
+      <screen x="0" y="25" width="1920" height="1120" />
+    </state>
+    <state width="1868" height="496" key="GridCell.Tab.0.right/0.25.1920.1120@0.25.1920.1120" timestamp="1623978042553" />
+    <state width="1868" height="297" key="GridCell.Tab.0.right/1920.-108.2560.1415/0.25.1920.1120@0.25.1920.1120" timestamp="1624221702995" />
+    <state width="1028" height="738" key="GridCell.Tab.0.right/828.-1415.2560.1360/-252.-1895.1080.1895/0.25.1920.1175@-252.-1895.1080.1895" timestamp="1623952459742" />
+    <state width="1028" height="665" key="GridCell.Tab.0.right/828.-1415.2560.1415/-252.-1895.1080.1895/0.25.1920.1120@-252.-1895.1080.1895" timestamp="1623949561197" />
+    <state x="-212" y="-1279" key="Vcs.Push.Dialog.v2" timestamp="1623954066982">
+      <screen x="-252" y="-1895" width="1080" height="1895" />
+    </state>
+    <state x="-212" y="-1279" key="Vcs.Push.Dialog.v2/828.-1415.2560.1360/-252.-1895.1080.1895/0.25.1920.1175@-252.-1895.1080.1895" timestamp="1623954066982" />
+    <state x="43" y="-1047" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623954005102">
+      <screen x="-252" y="-1895" width="1080" height="1895" />
+    </state>
+    <state x="43" y="-1047" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/828.-1415.2560.1360/-252.-1895.1080.1895/0.25.1920.1175@-252.-1895.1080.1895" timestamp="1623954005102" />
+    <state x="541" y="113" width="838" height="1032" key="search.everywhere.popup" timestamp="1624221978111">
+      <screen x="0" y="25" width="1920" height="1120" />
+    </state>
+    <state x="541" y="113" width="838" height="1032" key="search.everywhere.popup/1920.-108.2560.1415/0.25.1920.1120@0.25.1920.1120" timestamp="1624221978111" />
+  </component>
+</project>
